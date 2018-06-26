@@ -9,6 +9,9 @@ public class VarArgTest {
 		test.VarArgs(1,2);
 		test.VarArgs(1,2,3);
 		
+		int array[] = {4,5,6,7,8};
+		test.VarArgs(array);
+		
 	}
 	
 }
