@@ -2,16 +2,6 @@ package com.hkdemircan;
 
 import java.util.Date;
 
-class Person {
-	String name;
-	String surname;
-	public Person(String name, String surname) {
-		this.name = name;
-		this.surname = surname;
-	}
-	
-}
-
 public class RunTimeTest {
 
 
@@ -21,7 +11,7 @@ public class RunTimeTest {
 		System.out.println("Free Memory : " + runtime.freeMemory());
 		
 		Date d = null;
-		for(int i = 0;i<10000;i++) {
+		for(int i = 0;i<10000000;i++) {
 		 d = new Date();
 		 d = null;
 		}
