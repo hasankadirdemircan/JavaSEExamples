@@ -12,5 +12,5 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Access Modifiers
 
 - [Blog](http://blog.hkdemircan.com/index.php/2018/07/11/access-modifiers-class-modifiers/)
-- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/AccessModfierExample)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/AccessModfierExample/src/access/modifiers)
 
