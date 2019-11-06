@@ -7,10 +7,19 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Overview
 
 - [Access Modifiers](#access-modifiers)
-
+- [Enum](#enum)
+- [Variable Arguments](#variable-arguments)
 
 ## Access Modifiers
 
-- [Blog](http://blog.hkdemircan.com/index.php/2018/07/11/access-modifiers-class-modifiers/)
+- [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/AccessModfierExample/src/access/modifiers)
 
+## Enum
+- [Blog](https://medium.com/@hkdemircan/enum-in-java-f145a8952ed1)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/EnumExample/src/enumexample)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/EnumExample2/src/enumexample2)
+
+## Variable Arguments
+- [Blog](https://medium.com/@hkdemircan/variable-arguments-23d916a4f416)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/VarArgExample/src/varargs)
