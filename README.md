@@ -15,7 +15,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Overloaded](#overloaded)
 - [Reference Variable Casting](#reference-variable-casting)
 - [Covariant Return](#covariant-return)
-- [Constructor - Constructor Chaining](#constructor---constructor-chaining)
+- [Constructor - Constructor Chaining](#constructor-constructor-chaining)
 - [Statics](#statics)
 
 ## Access Modifiers
@@ -55,7 +55,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Blog](https://medium.com/@hkdemircan/returntype-covariantreturn-2dccebffd3a5)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/CovariantReturn/src/com/kadirdemircan)
 
-## Constructor — Constructor Chaining
+## Constructor Constructor Chaining
 - [Blog](https://medium.com/@hkdemircan/constructor-constructorchaining-dec624fbd218)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/ConstructorExample/src/constructor)
 
