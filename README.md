@@ -1,7 +1,7 @@
 # JavaSE Examples
 JavaSE öğrenirken konu başlıklarıyla, yapılarla ilgili yaptığım örnekleri kapsamaktadır.
 
-Java üzerinde design pattern incelemesi ve örnek kodlamalarını paylaşıp.
+Java üzerinde örnek kodlamalarımı paylaşıp.
 Türkçe kaynak oluşturmayı amaçlıyorum.
 
 ## Overview
@@ -11,6 +11,12 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Variable Arguments](#variable-arguments)
 - [Encapsulation](#encapsulation)
 - [Inheritance](#inheritance)
+- [Override](#override)
+- [Overloaded](#overloaded)
+- [Reference Variable Casting](#reference-variable-casting)
+- [Covariant Return](#covariant-return)
+- [Constructor - Constructor Chaining](#constructor-constructor-chaining)
+- [Constructor - Constructor Chaining](#statics)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -32,3 +38,27 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Inheritance
 - [Blog](https://medium.com/@hkdemircan/inheritance-6b800c3bbf63)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/InheritanceExample/src)
+
+## Override
+- [Blog](https://medium.com/@hkdemircan/override-1359d0d6fa82)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/PolymorphismExample/src/override)
+
+## Overloaded
+- [Blog](https://medium.com/@hkdemircan/overloaded-b8e383e020cc)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/PolymorphismExample/src/overloaded)
+
+## Reference Variable Casting
+- [Blog](https://medium.com/@hkdemircan/reference-variable-casting-cdbcf33e286a)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/ReferenceVariableCasting/src/referenceVariableCasting)
+
+## Covariant Return
+- [Blog](https://medium.com/@hkdemircan/returntype-covariantreturn-2dccebffd3a5)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/CovariantReturn/src/com/kadirdemircan)
+
+## Constructor — Constructor Chaining
+- [Blog](https://medium.com/@hkdemircan/constructor-constructorchaining-dec624fbd218)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/ConstructorExample/src/constructor)
+
+## Statics
+- [Blog](https://medium.com/@hkdemircan/statics-a2f613aee877)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/StaticExmaple/src/staticexample)
