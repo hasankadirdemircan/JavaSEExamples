@@ -15,8 +15,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Overloaded](#overloaded)
 - [Reference Variable Casting](#reference-variable-casting)
 - [Covariant Return](#covariant-return)
-- [Constructor - Constructor Chaining](#constructor-constructor-chaining)
-- [Constructor - Constructor Chaining](#statics)
+- [Constructor - Constructor Chaining](#constructor---constructor-chaining)
+- [Statics](#statics)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
