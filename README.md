@@ -17,6 +17,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Covariant Return](#covariant-return)
 - [Constructor - Constructor Chaining](#constructor-constructor-chaining)
 - [Statics](#statics)
+- [Coupling and Cohesion](#coupling-and-cohesion)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -62,3 +63,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Statics
 - [Blog](https://medium.com/@hkdemircan/statics-a2f613aee877)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/StaticExmaple/src/staticexample)
+
+## Coupling and Cohesion
+- [Blog](https://medium.com/@hkdemircan/coupling-and-cohesion-71ec522769c5)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Coupling-Cohesion/src/com/hkdemircan)
