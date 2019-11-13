@@ -18,6 +18,9 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Constructor - Constructor Chaining](#constructor-constructor-chaining)
 - [Statics](#statics)
 - [Coupling and Cohesion](#coupling-and-cohesion)
+- [Literals](#literals)
+- [Assignment Operator](#assignment-operator)
+- [Variable Scope](#variable-scope)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -67,3 +70,15 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Coupling and Cohesion
 - [Blog](https://medium.com/@hkdemircan/coupling-and-cohesion-71ec522769c5)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Coupling-Cohesion/src/com/hkdemircan)
+
+## Literals
+- [Blog](https://medium.com/@hkdemircan/literals-5766c9303d6f)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/LiteralsExample/src/literals)
+
+## Assignment Operator
+- [Blog](https://medium.com/@hkdemircan/assignment-operator-ac69b3e4c63b)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/AssignmentOperator/src/assignmentOperator)
+
+## Variable Scope
+- [Blog](https://medium.com/@hkdemircan/variable-scope-b06059d15a92)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/VariableScope/src/variablaScope)
