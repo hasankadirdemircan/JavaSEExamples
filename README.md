@@ -21,6 +21,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Literals](#literals)
 - [Assignment Operator](#assignment-operator)
 - [Variable Scope](#variable-scope)
+- [Initialize](#initialize)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -82,3 +83,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Variable Scope
 - [Blog](https://medium.com/@hkdemircan/variable-scope-b06059d15a92)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/VariableScope/src/variablaScope)
+
+## Initialize
+- [Blog](https://medium.com/@hkdemircan/initialize-2b278276ab22)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Initialize/src/com/kadirdemircan)
