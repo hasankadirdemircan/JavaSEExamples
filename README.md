@@ -22,6 +22,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Assignment Operator](#assignment-operator)
 - [Variable Scope](#variable-scope)
 - [Initialize](#initialize)
+- [Passing Variable](#passing-variable)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -87,3 +88,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Initialize
 - [Blog](https://medium.com/@hkdemircan/initialize-2b278276ab22)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Initialize/src/com/kadirdemircan)
+
+## Passing Variable
+- [Blog](https://medium.com/@hkdemircan/passing-variable-2aa0247ca98f)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/PassingVariable/src/com/hkdemircan)
