@@ -23,6 +23,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Variable Scope](#variable-scope)
 - [Initialize](#initialize)
 - [Passing Variable](#passing-variable)
+- [Arrays](#arrays)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -92,3 +93,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Passing Variable
 - [Blog](https://medium.com/@hkdemircan/passing-variable-2aa0247ca98f)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/PassingVariable/src/com/hkdemircan)
+
+## Arrays
+- [Blog](https://medium.com/@hkdemircan/arrays-97a98fef91fc)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Arrays/src/com/hkdemircan)
+
