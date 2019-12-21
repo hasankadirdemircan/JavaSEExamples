@@ -24,6 +24,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Initialize](#initialize)
 - [Passing Variable](#passing-variable)
 - [Arrays](#arrays)
+- [Initialize Block](#initialize-block)
+- [Wrapper](#wrapper)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -98,3 +100,10 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Blog](https://medium.com/@hkdemircan/arrays-97a98fef91fc)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Arrays/src/com/hkdemircan)
 
+## Initialize Block
+- [Blog](https://medium.com/@hkdemircan/initialize-block-70b1740f80cb)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/InitializeBlock/src/com/hkdemircan/com)
+
+## Wrapper
+- [Blog](https://medium.com/@hkdemircan/wrapper-1feba06e2c24)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Wrapper/src/com/hkdemircan)
