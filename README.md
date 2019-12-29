@@ -26,6 +26,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Arrays](#arrays)
 - [Initialize Block](#initialize-block)
 - [Wrapper](#wrapper)
+- [Garbage Collection](#garbage-collection)
+- [Operators](#operators)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -107,3 +109,12 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Wrapper
 - [Blog](https://medium.com/@hkdemircan/wrapper-1feba06e2c24)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Wrapper/src/com/hkdemircan)
+
+## Garbage Collection
+- [Blog](https://medium.com/@hkdemircan/garbage-collection-84ac393eb558)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/GarbageCollection/src/com/hkdemircan)
+
+## Operators
+- [Blog](https://medium.com/@hkdemircan/operators-4b59dec07529)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Operators/src/com/hkdemircan)
+
