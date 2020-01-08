@@ -30,6 +30,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Operators](#operators)
 - [Flow Control](#flow-control)
 - [Loops](#loops)
+- [Break And Continue](#break-and-continue)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -127,3 +128,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Loops
 - [Blog](https://medium.com/@hkdemircan/loops-366ac0834ae6)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/Loop/src/com/hkdemircan)
+
+## Break And Continue
+- [Blog](https://medium.com/@hkdemircan/break-and-continue-47376dc750a2)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/BreakAndContinue/src/com/hkdemircan)
