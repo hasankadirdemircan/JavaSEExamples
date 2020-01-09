@@ -31,6 +31,7 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Flow Control](#flow-control)
 - [Loops](#loops)
 - [Break And Continue](#break-and-continue)
+- [Handling Exception](#handling-exception)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -132,3 +133,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Break And Continue
 - [Blog](https://medium.com/@hkdemircan/break-and-continue-47376dc750a2)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/BreakAndContinue/src/com/hkdemircan)
+
+## Handling Exception
+- [Blog](https://medium.com/@hkdemircan/handling-exception-e39c6399ef02)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/HandlingException/src/com/hkdemircan)
+
