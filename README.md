@@ -35,6 +35,8 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 - [Uncaught Exception](#uncaught-exception)
 - [Checked And Unchecked Exception](#checked-and-unchecked-exception)
 - [Override Exception](#override-exception)
+- [String](#string)
+- [IO Operations](#io-operations)
 
 ## Access Modifiers
 - [Blog](https://medium.com/@hkdemircan/access-modifiers-class-modifiers-e7146f4b31a6/)
@@ -152,3 +154,16 @@ Türkçe kaynak oluşturmayı amaçlıyorum.
 ## Override Exception
 - [Blog](https://medium.com/@hkdemircan/override-exception-8c7e48b50e1f)
 - [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/OverrideException/src/com/hkdemircan)
+
+## String
+- [Blog](https://medium.com/@hkdemircan/string-12005f17778b)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/StringImmutable/src/string)
+
+## IO Operations
+- [Blog](https://medium.com/@hkdemircan/io-operations-2d0db3927fe5)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/FileProcessExample/src/com/hkdemircan)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/PrintWriterExample/src/com/hkdemircan)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/BufferedWriterReader/src/com/hkdemircan)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/FileCreateNewFile/src/com/hkdemircan)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/FileStreamExample/src/com/hkdemircan)
+- [Java](https://github.com/hasankadirdemircan/JavaSEExamples/tree/master/FileProcess/src/com/hkdemircan)
